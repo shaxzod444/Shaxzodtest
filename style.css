@@ -1,0 +1,26 @@
+.web_first_item{
+    border: 5px red solid;
+    border-radius: 1000px;
+   text-align: center;
+   background-color: aqua;
+   ;
+} 
+.aaa{
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+}
+.zzz{
+   width: 100%;
+    text-align: center;
+    background-color: yellow;
+}
+.red{
+    color: chartreuse;
+}
+.Bey{
+    color: chartreuse;
+}
+.zer{
+    color: blue;
+}
